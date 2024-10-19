@@ -11,12 +11,12 @@ This is a pcb design for a CH552 DEVBOARD. The board is intended to aid in the d
 
  * 4 led to provide indicators
  * 12x GND pins
- * 6x 3v pins
+ * 6x 3.3v pins
  * 6x 5v pins
  * ON/OFF button
  * BOOT and RESET buttons
 
-
+![Image](images/20241019_164148-crop.jpg "icon")
 
 ## Part List
 
