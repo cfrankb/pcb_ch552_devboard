@@ -5,7 +5,7 @@
 This is a pcb design for a CH552 DEVOARD. The board is intended to aid in the development of firmware/prototype for the CH552 and CH554 microcontrollers.
 
 
-![Image](images/revision0.png "icon")
+![Image](images/revision0a.png "icon")
 
 ## Features
 
@@ -28,7 +28,7 @@ This is a pcb design for a CH552 DEVOARD. The board is intended to aid in the de
 | 6x  | 1k Resistor   | R2, R3, R5, R6, R7, R8 | 0805        |
 | 1x  | Green Led     | D1                     | 0805        |
 | 5x  | Leds          | D2, D3, D4, D5, D6     | 0805        |
-| 1x  | CH552/CH554   | U1                     | SOP16       |
+| 1x  | CH552G/CH554G | U1                     | SOP16       |
 | 2x  | button        | SW1, SW2               | 6x6x4.3mm   |
 | 1x  | USB Connector | J1                     | Male DIP    |
 | 1x  | 1x07          | J2                     | 2.54mm pins |
