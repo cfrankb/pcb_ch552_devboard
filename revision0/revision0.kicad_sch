@@ -6750,7 +6750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:USB_A_Molex_67643_Horizontal"
+		(property "Footprint" "usb:USB_A_Molex_67643_Horizontal"
 			(at 209.55 88.9 0)
 			(effects
 				(font
