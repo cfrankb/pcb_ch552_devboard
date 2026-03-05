@@ -5,6 +5,9 @@
 This is a pcb design for a CH552 DEVBOARD. The board is intended to aid in the development of firmware/prototype for the CH552 and CH554 microcontrollers.
 
 
+![Image](images/sch_revision0.png "icon")
+
+
 ![Image](images/revision0a.png "icon")
 
 ## Features
